@@ -17,6 +17,9 @@
 - **CI/CD Terraform + GitHub Actions + Docker** — todo con rama prueba aplicada a rama main (En proceso)  
     Código: https://github.com/S4M73l09/Obversabilidad-Obversility
 
+- **Scripts de Windows Core** - Para montar de forma rapida y eficaz los scripts necesarios para montar un dominio en Windows Server Core (terminado)  
+    Código: https://github.com/S4M73l09/scripts-guia-windows
+
 ### Stack
 Azure · Terraform · Ansible · GitHub Actions · Docker · Prometheus · Grafana
 
