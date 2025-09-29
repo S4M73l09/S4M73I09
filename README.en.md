@@ -8,11 +8,10 @@
   <a href="https://github.com/S4M73109?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Explore-lightgrey"></a>
 </p>
 
----
+
 
 **EN**: Azure DevOps. IaC (Terraform + Ansible), CI/CD (GitHub Actions), Docker & Observability (Prometheus/Grafana).  
 
----
 
 ### Featured Projects
 
@@ -23,12 +22,11 @@
   Code: https://github.com/S4M73109/Observabilidad-Obversility  
 
 - **Scripts Windows Core** –– To quickly and efficiently mount the scripts necessary to mount a domain on Windows Server Core (finished)   Code: https://github.com/S4M73l09/scripts-guia-windows
----
+
 
 ### Stack
 Azure · Terraform · Ansible · GitHub Actions · Docker · Prometheus · Grafana  
 
----
 
 ### Contact
 - Reach me on **Malt** (above) or on **[LinkedIn](https://www.linkedin.com/in/samuellilobaby/)**  
