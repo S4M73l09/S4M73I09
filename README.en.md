@@ -22,6 +22,7 @@
 - **CI/CD Terraform + GitHub Actions + Docker** – with test branch applied to main branch (In progress)  
   Code: https://github.com/S4M73109/Observabilidad-Obversility  
 
+- **Scripts Windows Core** –– To quickly and efficiently mount the scripts necessary to mount a domain on Windows Server Core (finished)   Code: https://github.com/S4M73l09/scripts-guia-windows
 ---
 
 ### Stack
