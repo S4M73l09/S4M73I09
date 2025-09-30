@@ -21,7 +21,7 @@
     Código: https://github.com/S4M73l09/scripts-guia-windows
 
 ### Stack
-Azure · Terraform · Ansible · GitHub Actions · Docker · Prometheus · Grafana
+Azure · Terraform · Ansible · GitHub Actions · Docker · Prometheus · Grafana . LDAP . Windows Server . pipelines
 
 ### Contacto
 - Escríbeme por **Malt** (arriba) o por **LinkedIn**: https://www.linkedin.com/in/samuelillobaby/
