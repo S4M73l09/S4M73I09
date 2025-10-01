@@ -1,4 +1,4 @@
-# S4M73I09 ES --> [En](README.en.md)
+# S4M73I09 ES --> [EN](README.en.md)
 
 <h1 align="center">Hola, soy samuel encantado!!👋</h1>
 
