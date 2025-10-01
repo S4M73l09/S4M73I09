@@ -10,7 +10,7 @@
 
 
 
-**EN**: Azure DevOps. IaC (Terraform + Ansible), CI/CD (GitHub Actions), Docker & Observability (Prometheus/Grafana).  
+**EN**: Azure DevOps. IaC (Terraform + Ansible), CI/CD (GitHub Actions), pipelines,  Docker & Observability (Prometheus/Grafana).  
 
 
 ### Featured Projects
