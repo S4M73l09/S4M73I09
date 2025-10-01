@@ -8,7 +8,7 @@
   <a href="https://github.com/S4M73l09?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Explorar-lightgrey"></a>
 </p>
 
-**ES**: DevOps en Azure. IaC (Terraform+Ansible), CI/CD (GitHub Actions), Docker y observabilidad (Prometheus/Grafana).  
+**ES**: DevOps en Azure. IaC (Terraform+Ansible), CI/CD (GitHub Actions), uso de pipelines, Docker y observabilidad (Prometheus/Grafana).  
 
 ### Proyectos destacados
 - **Proyecto multimedia de Server** - Terraform + Github actions + Docker + Ansible + Wireguard + Grafana + Prometheus (Terminado)
