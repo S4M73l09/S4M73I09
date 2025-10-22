@@ -22,7 +22,7 @@
   Code: https://github.com/S4M73109/Observabilidad-Obversility  
 
 - **Scripts Windows Core** –– To quickly and efficiently mount the scripts necessary to mount a domain on Windows Server Core (finished)   Code: https://github.com/S4M73l09/scripts-guia-windows
-
+- **Gcloud-Scripts** – Gcloud-Scripts - Powershell + Bash script for creating necessary Terraform resources in Gcloud.  Code: https://github.com/S4M73l09/Gcloud-Script
 
 ### Stack
 Azure · Terraform · Ansible · GitHub Actions · Docker · Prometheus · Grafana · LDAP · Windows Server · pipelines
