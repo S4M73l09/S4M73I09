@@ -14,12 +14,15 @@
 - **Proyecto multimedia de Server** - Terraform + Github actions + Docker + Ansible + Wireguard + Grafana + Prometheus (Terminado)
     Código: https://github.com/S4M73l09/ProyectoServer
 
-- **CI/CD Terraform + GitHub Actions + Docker** — todo con rama prueba aplicada a rama main (En proceso)  
+- **CI/CD Terraform + GitHub Actions + Docker** — todo con rama prueba aplicada a rama main (En proceso)    
     Código: https://github.com/S4M73l09/Obversabilidad-Obversility
 
-- **Scripts de Windows Core** - Para montar de forma rapida y eficaz los scripts necesarios para montar un dominio en Windows Server Core (terminado)  
+- **Scripts de Windows Core** - Para montar de forma rapida y eficaz los scripts necesarios para montar un dominio en Windows Server Core (terminado).   
     Código: https://github.com/S4M73l09/scripts-guia-windows
 
+- **Gcloud-Scripts** - Script Powershell + Bash para creacion de recursos necesarios de Terraform en Gcloud.  
+    Código: https://github.com/S4M73l09/Gcloud-Script
+  
 ### Stack
 Azure · Terraform · Ansible · GitHub Actions · Docker · Prometheus · Grafana · LDAP · Windows Server · pipelines
 
