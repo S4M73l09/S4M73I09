@@ -24,7 +24,7 @@
     Código: https://github.com/S4M73l09/Gcloud-Script
   
 ### Stack
-Azure · Terraform · Ansible · GitHub Actions · Docker · Prometheus · Grafana · LDAP · Windows Server · pipelines
+Azure · Google Cloud · Terraform · Ansible · GitHub Actions · Docker · Prometheus · Grafana · LDAP · Windows Server · pipelines  
 
 ### Contacto
 - Escríbeme por **Malt** (arriba) o por **LinkedIn**: https://www.linkedin.com/in/samuelillobaby/
