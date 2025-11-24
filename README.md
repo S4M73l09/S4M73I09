@@ -22,6 +22,17 @@
 
 - **Gcloud-Scripts** - Script Powershell + Bash para creacion de recursos necesarios de Terraform en Gcloud.  
     Código: https://github.com/S4M73l09/Gcloud-Script
+
+### Proyectos especiales
+
+#### ***Bootstrap/Live - Proyecto que utiliza un Bootstrap generado para separarlo usando buenas practicas.*** 
+ - **GCS-Bootstrap---Live** - Bootstrap creado en Google Cloud para el despliegue de infra, haciendolo todo de manera profesional.
+      - Stack desplegado - terraform + Github Actions + OIDC + Google cloud + Workflows modificados para el uso y despliegue de Bootstrap.  
+        Código: https://github.com/S4M73l09/GCS-Bootstrap---Live
+
+ - **GCS-Infra-Live** - Utilizando el Bootstrap creado, podemos desplegar de manera directa la infraestructura real, separando en entornos, tanto en rama de pruebas, como una main donde se aplicara los cambios, y una rama de promocion.
+      - Stack desplegado - Terraform + Github Actions + rama de pruebas + rama de promocion + Google Cloud + Ansible + Workflows modificados para despliegue real.  
+        Código: https://github.com/S4M73l09/GCS-Infra-Live
   
 ### Stack
 Azure · Google Cloud · Terraform · Ansible · GitHub Actions · Docker · Prometheus · Grafana · LDAP · Windows Server · pipelines  
