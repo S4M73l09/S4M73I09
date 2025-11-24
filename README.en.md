@@ -24,8 +24,20 @@
 - **Scripts Windows Core** –– To quickly and efficiently mount the scripts necessary to mount a domain on Windows Server Core (finished)   Code: https://github.com/S4M73l09/scripts-guia-windows
 - **Gcloud-Scripts** – Gcloud-Scripts - Powershell + Bash script for creating necessary Terraform resources in Gcloud.  Code: https://github.com/S4M73l09/Gcloud-Script
 
+### Special Projects
+
+#### ***Bootstrap/Live - Bootstrap/Live - Project that uses a generated Bootstrap to separate it using good practices.***
+ - **GCS-Bootstrap---Live*** - Bootstrap created on Google Cloud for infrastructure deployment, doing everything professionally.
+      - Stack deployed - terraform + Github Actions + OIDC + Google cloud + modified workflows for the use and deployment of Bootstrap
+        Code: https://github.com/S4M73l09/GCS-Bootstrap---Live
+
+ - **GCS-Infra-Live** - Using the created Bootstrap, we can directly deploy the real infrastructure, separating it into environments, including a test branch, a main branch where the changes will be applied, and a promotion branch.
+      - Stack deployed - Terraform + Github Actions + testing branch + promotion branch + Google Cloud + Ansible + Modified workflows for real-world deployment
+        Code: https://github.com/S4M73l09/GCS-Infra-Live
+
+
 ### Stack
-Azure · Terraform · Ansible · GitHub Actions · Docker · Prometheus · Grafana · LDAP · Windows Server · pipelines
+Azure · Google Cloud · Terraform ·  Ansible · GitHub Actions · Docker · Prometheus · Grafana · LDAP · Windows Server · pipelines
 
 
 ### Contact
