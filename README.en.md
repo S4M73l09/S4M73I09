@@ -28,11 +28,11 @@
 
 #### ***Bootstrap/Live - Bootstrap/Live - Project that uses a generated Bootstrap to separate it using good practices.***
  - **GCS-Bootstrap---Live*** - Bootstrap created on Google Cloud for infrastructure deployment, doing everything professionally.
-      - Stack deployed - terraform + Github Actions + OIDC + Google cloud + modified workflows for the use and deployment of Bootstrap
+      - Stack deployed - terraform + Github Actions + OIDC + Google cloud + modified workflows for the use and deployment of Bootstrap.  
         Code: https://github.com/S4M73l09/GCS-Bootstrap---Live
 
  - **GCS-Infra-Live** - Using the created Bootstrap, we can directly deploy the real infrastructure, separating it into environments, including a test branch, a main branch where the changes will be applied, and a promotion branch.
-      - Stack deployed - Terraform + Github Actions + testing branch + promotion branch + Google Cloud + Ansible + Modified workflows for real-world deployment
+      - Stack deployed - Terraform + Github Actions + testing branch + promotion branch + Google Cloud + Ansible + Modified workflows for real-world deployment.    
         Code: https://github.com/S4M73l09/GCS-Infra-Live
 
 
