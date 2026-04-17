@@ -176,6 +176,9 @@ DevOps en Azure. IaC (Terraform+Ansible), CI/CD (GitHub Actions), uso de pipelin
   <br/>
   <img src="https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/OIDC-000000?style=for-the-badge&logo=openid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Checkov-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Conftest-Policy_as_Code-2D3748?style=for-the-badge" />
 </details>
 
 <details>
