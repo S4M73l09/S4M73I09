@@ -1,6 +1,6 @@
 <div align="center>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/S4M73l09/S4M73l09/refs/heads/main/assets/Agujeronegro_diagonal_crt_soft.webp" alt="banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/S4M73l09/S4M73l09/refs/heads/main/assets/Agujeronegro_crt_hq2.webp" alt="banner" width="100%"/>
 </p>
 
 
